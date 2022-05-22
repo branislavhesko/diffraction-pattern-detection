@@ -1,0 +1,8 @@
+In the provided dataset there are acquired diffraction rings of gold crystals.
+The assumed not calibrated half angle is in the name of the file. The task is to create the algorithm to extract the real calibrated half angle from the diffraction pattern itself.
+
+The (100)- orientation  lattice spacing of gold at 100kV electron beam would correspond to the half angle 9.076mrad, but the first visible ring is (111) orientation at angle 15.720 mrad.
+Use the bragg law for the cubic system to calculate higher diffraction rings.
+
+https://www.google.com/search?q=Au+gold+diffraction+pattern&source=lnms&tbm=isch&sa=X&biw=1920&bih=965&dpr=1
+
